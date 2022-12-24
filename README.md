@@ -6,8 +6,14 @@ Skills:
 
 -CSS
 
+-Javascript
+
+-React JS
+
 -Bootsrap
 
 -GIT
 
 -PHP
+
+-OOP
