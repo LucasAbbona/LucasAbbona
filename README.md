@@ -1,4 +1,4 @@
-👋 Hi, I’m Lucas Abbona and i'm a Junior Front End Developer.
+👋 Hi, I’m Lucas Abbona and i'm a Junior Front End Developer and PHP Developer .
 
 Skills:
 
@@ -15,5 +15,7 @@ Skills:
 -GIT
 
 -PHP
+
+-Laravel
 
 -OOP
