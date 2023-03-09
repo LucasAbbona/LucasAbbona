@@ -6,9 +6,13 @@ Skills:
 
 -CSS
 
+-Tailwind CSS
+
 -Javascript
 
 -React JS
+
+-Reduc JS
 
 -Bootsrap
 
