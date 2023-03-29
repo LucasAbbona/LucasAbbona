@@ -12,7 +12,7 @@ Skills:
 
 -React JS
 
--Reduc JS
+-Redux Toolkit
 
 -Bootsrap
 
@@ -23,3 +23,5 @@ Skills:
 -Laravel
 
 -OOP
+
+-My SQL
